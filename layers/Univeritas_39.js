@@ -1,0 +1,1 @@
+var json_Univeritas_39 = {"type":"FeatureCollection","name":"Univeritas_39","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Universidade_Univeritas","Endereco":"Av.Uberaba,251_Vila_Virginia"},"geometry":{"type":"Point","coordinates":[-46.349702242076127,-23.48845525945643]}}]}
